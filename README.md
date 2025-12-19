@@ -1,2 +1,4 @@
 # CS320Final
 Repository created from work related to CS320: Software Test, Automation QA at SNHU, Oct-Dec 2025
+To ensure any program, code, or software is functional and secure, it must be thoroughly tested. While manual testing is possible and was the standard for a long time, testing can be made drastically more efficient by implementing automated testing.
+Often, program requirements are provided as a list of client must-haves and design ideas which are then translated into concrete plans for the software. Often, the plan-making process includes identifying every potential actor required and splitting those actors into the required component functions and attributes. These plans, combined with ideas for the physical layout and function segregation among pages, comprise the software design.
